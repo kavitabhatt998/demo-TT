@@ -1,0 +1,101 @@
+Flow ID,Name,Description,Test Steps,Flow Priority,Status
+1,Explore Shopping Experience with Multiple Products and Checkout Options,"Navigate through various categories and products. Add items to the cart, adjust options, and manage the cart. Verify the about page after exploring the shopping experience.","Step 1: Navigate to checkout/info
+Step 2: Click on input Email
+Step 3: Enter input value in input Email
+Step 4: Click on span EmailOffers
+Step 5: Click on input MarketingCheckbox
+Step 6: Click on button ContinueShipping -> Navigate to page '/'
+Step 7: Click on link Apple
+Step 8: Click on link Apple -> Navigate to page 'category page#category/*'
+Step 9: Click on button AddToCart
+Step 10: Click on button AddToCart
+Step 11: Click on link Sale
+Step 12: Click on link Sale -> Navigate to page 'product page#product/*'
+Step 13: Click on link ProductLink
+Step 14: Click on link ProductLink
+Step 15: Click on button Next
+Step 16: Click on button Next
+Step 17: Click on button Next
+Step 18: Click on button Next
+Step 19: Click on button Close
+Step 20: Click on button Close
+Step 21: Click on link Accessories
+Step 22: Click on link Accessories -> Navigate to page 'category page#category/*'
+Step 23: Click on link mobilePhoneModel (SamsungGalaxyZFold4)
+Step 24: Click on link mobilePhoneModel (SamsungGalaxyZFold4) -> Navigate to page 'product page#product/*'
+Step 25: Click on button Increased
+Step 26: Click on button Increased
+Step 27: Click on link Samsung
+Step 28: Click on link Samsung -> Navigate to page 'category page#category/*'
+Step 29: Click on button HotSamsungGalaxyS23
+Step 30: Click on button HotSamsungGalaxyS23
+Step 31: Click on button Buy
+Step 32: Click on button Buy
+Step 33: Click on label storageColorOptions (White)
+Step 34: Click on label storageColorOptions (White)
+Step 35: Click on label storageColorOptions (1TB)
+Step 36: Click on label storageColorOptions (1TB)
+Step 37: Click on label storageColorOptions (512GB)
+Step 38: Click on label storageColorOptions (512GB)
+Step 39: Click on label storageColorOptions (256GB)
+Step 40: Click on label storageColorOptions (256GB)
+Step 41: Click on label storageColorOptions (Black)
+Step 42: Click on label storageColorOptions (Black)
+Step 43: Click on label storageColorOptions (512GB)
+Step 44: Click on label storageColorOptions (512GB)
+Step 45: Click on label storageColorOptions (1TB)
+Step 46: Click on label storageColorOptions (1TB)
+Step 47: Click on label storageColorOptions (512GB)
+Step 48: Click on label storageColorOptions (512GB)
+Step 49: Click on button Buy
+Step 50: Click on button Buy
+Step 51: Click on div Slider
+Step 52: Click on div Slider
+Step 53: Click on input InStockCheckbox
+Step 54: Click on input InStockCheckbox
+Step 55: Click on div Calculating
+Step 56: Click on div Calculating
+Step 57: Click on div productWrapper (ProductWrapper)
+Step 58: Click on div productWrapper (ProductWrapper)
+Step 59: Click on link mobilePhoneModel (SamsungGalaxyZFold5)
+Step 60: Click on link mobilePhoneModel (SamsungGalaxyZFold5) -> Navigate to page 'product page#product/*'
+Step 61: Click on label storageColorOptions (Blue)
+Step 62: Click on label storageColorOptions (Blue)
+Step 63: Click on label storageColorOptions (512GB)
+Step 64: Click on label storageColorOptions (512GB)
+Step 65: Click on label storageColorOptions (TB)
+Step 66: Click on label storageColorOptions (TB)
+Step 67: Click on label storageColorOptions (256GB)
+Step 68: Click on label storageColorOptions (256GB)
+Step 69: Click on label storageColorOptions (Black)
+Step 70: Click on label storageColorOptions (Black)
+Step 71: Click on label storageColorOptions (512GB)
+Step 72: Click on label storageColorOptions (512GB)
+Step 73: Click on label storageColorOptions (TB)
+Step 74: Click on label storageColorOptions (TB)
+Step 75: Click on button purchaseOptions (Increased2)
+Step 76: Click on button purchaseOptions (Increased2)
+Step 77: Click on button purchaseOptions (Buy)
+Step 78: Click on button purchaseOptions (Buy)
+Step 79: Click on link ProductNext
+Step 80: Click on link ProductNext
+Step 81: Click on link ProductNext
+Step 82: Click on link ProductNext
+Step 83: Click on link ProductNext2
+Step 84: Click on link ProductNext2
+Step 85: Click on span PageNumber
+Step 86: Click on span PageNumber -> Navigate to page 'cart page#cart'
+Step 87: Click on button removeItem (Remove)
+Step 88: Click on button removeItem (Remove)
+Step 89: Click on button removeItem (Remove)
+Step 90: Click on button removeItem (Remove)
+Step 91: Click on button removeItem (Remove2)
+Step 92: Click on button removeItem (Remove2)
+Step 93: Click on div EmptyCartMessage
+Step 94: Click on div EmptyCartMessage
+Step 95: Click on link GoShopping
+Step 96: Click on link GoShopping -> Navigate to page '/'
+Step 97: Click on link About
+Step 98: Click on link About -> Navigate to page '/about'
+Step 99: Take full page screenshot as checkpoint
+",High,NEW
