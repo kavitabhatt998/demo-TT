@@ -1,0 +1,23 @@
+Flow ID,Name,Description,Test Steps,Flow Priority,Status
+1,Test Login and Password Recovery Process in SFDC Application,"Navigate to the home page, log in with valid credentials, recover password, and verify access to the home page.","Step 1: Navigate to /
+Step 2: Click on input Username
+Step 3: Enter input value in input Username
+Step 4: Click on input Password
+Step 5: Enter input value in input Password
+Step 6: Click on input LogIn
+Step 7: Enter input value in input Username2
+Step 8: Click on input Password
+Step 9: Enter input value in input Password
+Step 10: Click on input LogIn
+Step 11: Click on link ForgotYourPassword -> Navigate to page 'authentication page#secur/forgotpassword.jsp'
+Step 12: Enter input value in input Username
+Step 13: Click on input Continue
+Step 14: Enter input value in input Username
+Step 15: Click on input Continue
+Step 16: Click on link ResendEmail
+Step 17: Enter input value in input Username
+Step 18: Click on input Continue
+Step 19: Click on link ReturnToLogin -> Navigate to page '/'
+Step 20: Click on link TryForFree -> Navigate to page ''
+Step 21: Take full page screenshot as checkpoint
+",High,NEW
